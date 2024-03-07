@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "mango",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 500,
+      "comment": "fresh",
+      "date": "2024-02-21T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 344,
+      "comment": "fef",
+      "date": "2024-02-22T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "pappaya",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "nice",
+      "date": "2024-03-13T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
